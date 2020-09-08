@@ -2,14 +2,14 @@
 
 Nice to meet you! I'm a Machine Learninng Engineer presently based in New Delhi, India.
 
-<p align="center">
+<p align="left">
 <a  href="https://github.com/antonkomarev/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=sachindevsharma">
 </a>
 </p>
 
 
-<p align="center" >
+<p align="left" >
 <a href="https://www.linkedin.com/in/sds7695/">
 <img src="https://img.shields.io/badge/-LinkedIn-%233781da" alt="LinkedIn"/></a> 
 <a href="https://twitter.com/IamSDSharma">
