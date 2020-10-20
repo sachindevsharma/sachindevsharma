@@ -1,20 +1,20 @@
-### Hi there 👋
-
-Nice to meet you! I'm a Machine Learninng Engineer presently based in New Delhi, India.
-
-<p align="left">
-<img src="https://visitor-badge.glitch.me/badge?page_id=sachindevsharma.sachindevsharma"/>
+<p align="center">
+<a href="https://www.linkedin.com/in/sds7695/" target="blank"><img align="center" src="https://img.shields.io/badge/-LinkedIn-039BE5?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sds7695/" ></a>
+<a href="https://twitter.com/IamSDSharma" target="blank"><img align="center" src="https://img.shields.io/badge/-Twitter-A7C0FF?style=for-the-badge&logo=Twitter&logoColor=white&link=https://twitter.com/IamSDSharma" ></a>
 </p>
 
+I'm a data scientist who is passionate about using artificial intelligence to make the world a slightly better place. 
+Typically, I like to work on projects involving machine learning, nlp, reinforcement learning, or any analyses involving human behavior.
+In my spare time, you will often find me playing chess.
 
-<p align="left" >
-<a href="https://www.linkedin.com/in/sds7695/">
-<img src="https://img.shields.io/badge/-LinkedIn-%233781da" alt="LinkedIn"/></a> 
-<a href="https://twitter.com/IamSDSharma">
-<img src="https://img.shields.io/badge/-Twitter-%231DA1F2" alt="Twitter" /></a> 
-<a href="https://www.instagram.com/iamsdsharma/">
-<img src="https://img.shields.io/badge/-Instagram-%23eb13a5" alt="Instagram" /></a> 
-</p>
+  
+
+
+----
+
+<img src="https://github-readme-stats.vercel.app/api?username=sachindevsharma&show_icons=true"  />
+<p align="left"><img src="https://visitor-badge.glitch.me/badge?page_id=sachindevsharma.sachindevsharma"/></p>
+
 
 
 
