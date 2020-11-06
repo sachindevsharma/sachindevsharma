@@ -10,7 +10,7 @@ In my spare time, you will often find me playing chess.
   
 
 
-----
+----.
 
 <img src="https://github-readme-stats.vercel.app/api?username=sachindevsharma&show_icons=true"  />
 <p align="left"><img src="https://visitor-badge.glitch.me/badge?page_id=sachindevsharma.sachindevsharma"/></p>
